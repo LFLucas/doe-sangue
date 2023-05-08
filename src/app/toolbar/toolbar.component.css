@@ -1,0 +1,12 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+.title{
+    margin-left: 15px;
+}
+
+mat-toolbar{
+  background-color: darkgrey;
+  color: black;
+}
